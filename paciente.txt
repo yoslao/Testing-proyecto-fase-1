@@ -1,0 +1,2 @@
+42
+Paciente{nombre='Jose Delgado Vargas', DNI='71928735', fechaNacimiento='2005-02-08', infoPersonal=InfoPaciente{enfermedadesPreexistentes=[Enfermedad{nombre='Sida', cronico=true}, Enfermedad{nombre='Cancer', cronico=true}], medicacion=[Paracetamol, Kitadol], operaciones=[Pancriatitis], antecedentesFamiliares=[Miopia, Astigmatismo], alergias=[Palta, Agua, Pan]}, historialMedico=BPlusTree [], consultas=[]}

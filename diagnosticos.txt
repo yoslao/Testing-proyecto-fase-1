@@ -1,0 +1,1 @@
+Key [key=20250420, values=[Diagnostico{id=20250420, fechaConsulta=2025-04-20, enfermedades=[], medicamentos=[], doctor=Doctor{nombre='Dr. X', especialidad='Radiología'}}]]
